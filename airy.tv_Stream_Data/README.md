@@ -1,2 +1,2 @@
-# airy.tv_Stream_Data
+# airy.tv Stream Data
 Streams from https://live.airy.tv
