@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel> <!-- Albdroid PHP Streaming -->
+<name>[COLOR lime][B]Dance TV Streaming API Kodi at Albdroid TV[/B][/COLOR]</name>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<items_info> <!-- THIS IS OPTIONAL -->
+<title>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime] [B][I][COLOR red]([/COLOR]Dance TV Streaming API Kodi[COLOR red])[/I][/B][/COLOR]</title>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime] [B][I][COLOR red]([/COLOR]Dance TV Streaming API Kodi[COLOR red])[/I][/B][/COLOR]</genre>
+<description>[COLOR blue][B]Author:[/COLOR] [COLOR lime][B]Olsion Bakiaj[/B][/COLOR][COLOR red] &amp;[/COLOR][COLOR lime][B] Endrit Pano[/B][/COLOR]</description>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<date>[COLOR lime][B]12 October 2024[/B][/COLOR]</date>
+<credits>[COLOR lime]BuBA[/B][/COLOR]</credits>
+<year>[COLOR lime][B]2024[/B][/COLOR]</year>
+</items_info>
+
+<item>
+<stream_id>1</stream_id>
+<title>[COLOR lime][B]BEST OF DANCE TV[/COLOR][/B]</title>
+<link>https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]BEST OF DANCE TV[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>2</stream_id>
+<title>[COLOR lime][B]DEEP HOUSE[/COLOR][/B]</title>
+<link>https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]DEEP HOUSE[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>3</stream_id>
+<title>[COLOR lime][B]TECHNO[/COLOR][/B]</title>
+<link>https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]TECHNO[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>4</stream_id>
+<title>[COLOR lime][B]TECH HOUSE[/COLOR][/B]</title>
+<link>https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]TECH HOUSE[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>5</stream_id>
+<title>[COLOR lime][B]HOUSE[/COLOR][/B]</title>
+<link>https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]HOUSE[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>6</stream_id>
+<title>[COLOR lime][B]MINIMAL  DEEP TECH[/COLOR][/B]</title>
+<link>https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]MINIMAL  DEEP TECH[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>7</stream_id>
+<title>[COLOR lime][B]MAINSTREAM (EDM)[/COLOR][/B]</title>
+<link>https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]MAINSTREAM (EDM)[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>8</stream_id>
+<title>[COLOR lime][B]DOWNTEMPO[/COLOR][/B]</title>
+<link>https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]DOWNTEMPO[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>9</stream_id>
+<title>[COLOR lime][B]MELODIC TECH[/COLOR][/B]</title>
+<link>https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]MELODIC TECH[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>10</stream_id>
+<title>[COLOR lime][B]DANCE TV[/COLOR][/B]</title>
+<link>https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]DANCE TV[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>11</stream_id>
+<title>[COLOR lime][B]DEEP HOUSE[/COLOR][/B]</title>
+<link>https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]DEEP HOUSE[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>12</stream_id>
+<title>[COLOR lime][B]TECHNO[/COLOR][/B]</title>
+<link>https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]TECHNO[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>13</stream_id>
+<title>[COLOR lime][B]TECH HOUSE[/COLOR][/B]</title>
+<link>https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]TECH HOUSE[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>14</stream_id>
+<title>[COLOR lime][B]HOUSE[/COLOR][/B]</title>
+<link>https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]HOUSE[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>15</stream_id>
+<title>[COLOR lime][B]MINIMAL  DEEP TECH[/COLOR][/B]</title>
+<link>https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]MINIMAL  DEEP TECH[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>16</stream_id>
+<title>[COLOR lime][B]MAINSTREAM (EDM)[/COLOR][/B]</title>
+<link>https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]MAINSTREAM (EDM)[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>17</stream_id>
+<title>[COLOR lime][B]DOWNTEMPO[/COLOR][/B]</title>
+<link>https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]DOWNTEMPO[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<stream_id>18</stream_id>
+<title>[COLOR lime][B]MELODIC TECH[/COLOR][/B]</title>
+<link>https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Dance TV</category>
+<date>[COLOR lime][B]Saturday, 12 October 2024 - 23:39:46[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]MELODIC TECH[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<SetViewMode>504</SetViewMode>
+
+</channel>
