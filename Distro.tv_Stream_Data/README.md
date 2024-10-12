@@ -1,2 +1,2 @@
-# Distro.tv_Stream_Data
+# Distro.tv Stream Data
 Streams from https://distro.tv
