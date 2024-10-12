@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel> <!-- Albdroid PHP Streaming -->
+<name>[COLOR lime][B]Airy TV Streaming API[/B][/COLOR]</name>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<items_info> <!-- THIS IS OPTIONAL -->
+<title>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime] [B][I][COLOR red]([/COLOR]Airy TV Streaming API[COLOR red])[/I][/B][/COLOR]</title>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime] [B][I][COLOR red]([/COLOR]Airy TV Streaming API[COLOR red])[/I][/B][/COLOR]</genre>
+<description>[COLOR blue][B]Author:[/COLOR] [COLOR lime][B]Olsion Bakiaj[/B][/COLOR][COLOR red] &amp;[/COLOR][COLOR lime][B] Endrit Pano[/B][/COLOR]</description>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<date>[COLOR lime][B]09 October 2024[/B][/COLOR]</date>
+<credits>[COLOR lime]BuBA[/B][/COLOR]</credits>
+<year>[COLOR lime][B]2024[/B][/COLOR]</year>
+</items_info>
+
+<item>
+<title>[COLOR lime][B]Chopping Mall[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/651cff328de4e849ea873a9c/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>A group of young shopping mall employees stay behind for a late night party in one of the stores When the mall goes on lock-down before they can get out the robot security system malfunctions and goes on a killing spree</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Chopping Mall[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Salvage One[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/66fef7e4450a9417f5242bd0/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Salvage One</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Salvage One[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]The Untouchables[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/66fd7282450a9417f522711a/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Al Capones imprisonment sets off a war in the underworld for his former position</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]The Untouchables[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]The Return[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/66fc38aa450a9417f5215b30/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>In New Mexico an alien spacecraft abducts two young children and an old man 25 years later the children are returned as adults to the same town now beset by strange cattle mutilations</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]The Return[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Adventures of the Wilderness Family[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/65ab77d94ed5e20e03ecdee8/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>The Robinson family decide to leave city life behind for one of clean living in the wilderness for the sake of their daughters health There they learn the value of family as they become closer to nature</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Adventures of the Wilderness Family[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Best of ROH Wrestling - Ep. 13[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/651cff168de4e849ea873a3a/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Best of ROH Wrestling - Ep. 13</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Best of ROH Wrestling - Ep. 13[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]The Fugitive[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/651d01c18de4e849ea873ce9/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>After being on the run for 6 months Richard Kimble falls in love with a beautiful woman who has a young son She also has a physically abusive estranged husband that wants Kimble out of town or dead</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]The Fugitive[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Swamp Thing[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/66e2750e6ecb0a792ab4fa5c/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>40 years ago a plane carrying valuable Egyptian antiquities and a mummy crashed in the swamp Arcane supports an expedition to find it but his interest is far more than financial</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Swamp Thing[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]A to Z The History of the Beatles Season  Episode 1[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/6311234beee46583d7696818/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>From the Birth of The Beatles in 1960 to the end of the group in 1970 This is the true story of the biggest band in the world Detailed from the beginning to the end How John met Paul to Ringo joining the group Detailed like no other documentary with facts hidden for 40 years If you are a fan of The BEATLES you can not help to love this documentary series With guests  that knew the Fab 4 Victor Spinetti Howie Casey Tony Sheridan among others</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]A to Z The History of the Beatles Season  Episode 1[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Stars Of Memphis Wrestling Austin Idol And Tommy Rich[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/634a33970497ef3e8de51149/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Fans tuned in every week to see the legendary action of Memphis wrestling here are two of the reasons that made it so popular Austin Idol and Tommy Rich</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Stars Of Memphis Wrestling Austin Idol And Tommy Rich[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Simms Complete[/COLOR][/B]</title>
+<link>https://linear-493.frequency.stream/dist/airytv/493/hls/master/playlist.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Phil and Matt Simms breakdown QB play around the league.</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Simms Complete[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]The Millionairess[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/651d01d98de4e849ea873d60/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>A millionairess and a doctor cannot marry until they meet conditions set up by their respective parents</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]The Millionairess[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]ThreeStoogesInColorMain[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/634a34640497ef3e8de5119f/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>ThreeStoogesInColorMain</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]ThreeStoogesInColorMain[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Mary Higgins Clark Before I Say Goodbye[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/634a341a0497ef3e8de51187/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>2003 Drama Thriller Nell MacDermott loses her husband in a fiery boating accident With their relationship in question on the night of his death Nell longs to connect with him She visits a psychic who informs her that her husband was murdered</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Mary Higgins Clark Before I Say Goodbye[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Five Savage Men[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/6346d9b5554328cd4b6c036a/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>School teacher Alice is helped to exact revenge against the people who tortured her by Chatto an Apache chief</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Five Savage Men[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Robocop 101[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/633ae4cb130f0b717dca8b70/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>1994 Action Crime RoboCop is back to provide justice in Delta City While investigating the murders of several homeless people he uncovers some of the citys darker secrets</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Robocop 101[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Something the Lord Made  Biography TV Movie Drama Alan Rickman movie[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/652d5f5abd9c922268b495ae/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Something the Lord Made  Biography TV Movie Drama Alan Rickman movie</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Something the Lord Made  Biography TV Movie Drama Alan Rickman movie[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]WPT Seminole Hardrock Poker Showdown 2020 - Part 2[/COLOR][/B]</title>
+<link>https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-AiryTV/120.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Maria Ho is up against WPT Champions James Carroll and Eric Afriat in Las Vegas playing for the WPT Seminole Hard Rock Poker Showdown title. $715,000 awaits the winner and a seat to the exclusive WPT Baccarat Crystal Tournament of Champions, see if Maria can push forward to win her breakthrough title.</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]WPT Seminole Hardrock Poker Showdown 2020 - Part 2[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Sports-a-palooza 121[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/63dd69e7f516fcaec90a2271/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>2018 Sports Action A midget weightlifter gets a fun sized workout a modern day Icarus fails at flight in the Birdman Festival and contestants weasel their way to victory in a bizarre competition known as \u201cferret legging\u201d</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Sports-a-palooza 121[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Hard Knocks[/COLOR][/B]</title>
+<link>https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-AiryTV/121.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Selem Evloev v. Alexey Dubrovny Vitali Tverdokhlebov v. Oleg Mykhayliv Rubenilton Pereira v. Orozbek Maripov Roman Bogatov v. Ricardo Franco Aleksander Doskalchuk v. Binh Son Le Vadim Malygin v. Fabricio Viegas Sarraff Keith Johnson v. Maxim Grabovich Caio Magalhaes v. Dmitry Voitov Mikhail Ragozin v. Alan Bispo de Santana Damir Ismagulov v. Maxim Divnich</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Hard Knocks[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Traveling Golfer featuring Myrtle Beach Golf Authority and Elliot Beach Rentals[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/65c19d104ed5e20e030a82d0/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Traveling Golfer featuring Myrtle Beach Golf Authority and Elliot Beach Rentals</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Traveling Golfer featuring Myrtle Beach Golf Authority and Elliot Beach Rentals[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Darcizzle[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/650b4fbafe13832e0cb04669/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Inshore Fishing andamp; Exploring a New Area with Subscribers! Florida Girl Fishing for MONSTER Snook andamp; Sailfish First Time Inshore Fishing Miami  Stiltsv\u0022</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Darcizzle[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Combat[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/66ccc7dc02bed5f2ba630f9a/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>This two part Combat! episode is the quintessential story of the futility of war as viewed through the eyes of surviving infantrymen An American division of troops is making an assault all along their lines At the platoon level Lt Hanley is ordered to take a strategic hill that overlooks a needed road and the hill is protected by two concrete bunkers with German machine guns and infantry in each bunker Saunders gets hit in his thigh in the first assault on the bunkers while several other GIs are killed Hanley asks for artillery support but his company commander tells Hanley he will have to take the hill without artillery support Hanley tries several different strategies to take the hill but each time the men go up the hill the overwhelming fire from the bunkers stop them and each time they leave a few more dead GIs on the hill see Hills Are For Heroes - Part 2 for continuation of storyline</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Combat[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]WBQP Florida[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/651cffc68de4e849ea873afe/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Panther</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]WBQP Florida[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Filler[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/651d04578de4e849ea873fe8/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Filler</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Filler[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]The Rat Patrol[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/651d04388de4e849ea873f71/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>The Rat Patrol and German forces clash in a small village During the fighting a small girl falls down a well An uneasy truce develops as both the Germans and Rat patrol try to save an innocent victim of war</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]The Rat Patrol[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Filler[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/65a03d46442bf588b5be9ac5/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Filler</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Filler[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Poker Night In America | S04 E24 | Rich Friends[/COLOR][/B]</title>
+<link>https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-AiryTV/216.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>We find out why bluffs are like potato chips at Choctaw Resort Casino.  Featuring Etay Brady, Daphne Turner, Matt Russell, Brandon Cantu, Roger Sippl, Phil Hellmuth, Craig Stanley, Gavin Smith, Greg Himmelbrand, and Alec Torelli</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Poker Night In America | S04 E24 | Rich Friends[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Ancient Planet Season 1 Episode 3[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/631122f4eee46583d76967f4/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Episode 3 of this trilogy consists of 3 x 30 HD episodes that cover the history of our planet and the most ancient life on it during the Hadean Archean and Proterozoic eons from 46 billion years ago until 500 million years ago</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Ancient Planet Season 1 Episode 3[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Mind Snatchers[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/631a367f2f4a212048bbed05/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>A German scientist works on a way of quelling overly aggressive soldiers by developing implants that directly stimulate the pleasure centers of the brain Starring Christopher Walken Ronny Cox Ralph Meeker Joss Ackland</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Mind Snatchers[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]The Kevin Samuels Passing Interview[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/63988e4be912e555a78dab9b/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Sherard sits down with 4 gentlemen who have very strong opinions regarding the celebrating of Kevin Samuels passing</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]The Kevin Samuels Passing Interview[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Praise[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/666c6e8f9aaa7c2a7f0b3c76/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>praise tv</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Praise[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Gotham Comedy Live: Mario Cantone \u003CLIVE\u003E[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/63085b67eee46583d767a388/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Gotham Comedy Live: Mario Cantone \u003CLIVE\u003E</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Gotham Comedy Live: Mario Cantone \u003CLIVE\u003E[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Tuna Tartare with Mushroom Salad and Shrimp Siumai[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/634a31c00497ef3e8de51055/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Tuna Tartare with Mushroom Salad and Shrimp Siumai</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Tuna Tartare with Mushroom Salad and Shrimp Siumai[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Wild America Special  Amazing Legends[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/633753af130f0b717dca77a7/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Watch spellbound as mighty Grizzly and ferocious Cougar come to savage blows Witness attacks on humans by deadly Whitetail Deer and dive-bombing Goshawk Meet the blood-drinking Vampire Bat See a Rattlesnake using deadly venom on its arch-enemy - the incredible Roadrunner Nature is seen at its most amazing</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Wild America Special  Amazing Legends[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Net Geo Wild[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/634a35960497ef3e8de511f9/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Net Geo Wild</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Net Geo Wild[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]The Rise and Rise of Bitcoin[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/6552b160891b52a98266aeec/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>The Rise and Rise of Bitcoin</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]The Rise and Rise of Bitcoin[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]NBC News[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/64e0f6d94604255c48b3a755/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>NBC News</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]NBC News[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Richard Thompson Band Live At Rockpalast 1984[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/63da8cd8f516fcaec908f858/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>1984 Documentary Music The show recorded by German TV and radio station WDR was an incredible demonstration of Thompsons musicianship and shows a band in total harmony within itself delivering to its fullest They carry the music of their boss and give him the lightness and the leeway to fully unfold his potential The concert is an absolute must have for every Thompson fan</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Richard Thompson Band Live At Rockpalast 1984[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Nashville Country TV[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/63e7ca2d6e33cf5f07659f36/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>All Country Music</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Nashville Country TV[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Music Videos[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/655bca6d577abc6e57f9e344/airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Music Videos</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Music Videos[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Challenge of the GoBots[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/65c31f4e4ed5e20e030cf00c/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Cy-Kill and Dr Braxis join forces to steal an experimental energy crystal</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Challenge of the GoBots[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B]Bluey[/COLOR][/B]</title>
+<link>https://hls.showfer.com/stream/6572710a116f08a10a235243/Airy.m3u8</link>
+<thumbnail>https://png.kodi.al/tv/albdroid/logo_bar.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/logo_bar.png</fanart>
+<category>Airy TV</category>
+<description>Bluey</description>
+<date>[COLOR lime][B]Wednesday, 09 October 2024 - 04:40:33[/B][/COLOR]</date>
+<genre>[COLOR lime][B][I]Albdroid[/I][/B][/COLOR][COLOR lime][B][I] [COLOR red]([/COLOR]Bluey[COLOR red])[/I][/B][/COLOR]</genre>
+<info>[COLOR lime][B]Website:[/B][/COLOR] [COLOR red][B]([/B][/COLOR][COLOR lime][B]Albdroid.AL[/B][/COLOR] [COLOR red][B]&amp;[/B][/COLOR] [COLOR lime][B]Kodi.AL[/B][/COLOR][COLOR red][B])[/B][/COLOR]</info>
+</item>
+
+<SetViewMode>504</SetViewMode>
+
+</channel>
