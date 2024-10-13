@@ -1,697 +1,0 @@
-#EXTM3U #Pluto TV Streaming API #VLC Advanced Playlist (Sunday, 13 October 2024 - 18:49:45)
-
-#EXTINF:-1,CNN Fast
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66c45ba803e3b20008d8c294/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaac62-8983-11ef-9fa5-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=68d6d6d2-4dad-422c-b26e-8d8988bb7654&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,The Pet Collective
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60801317a0ccef00072aaf75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26e97bc6-8983-11ef-82ef-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0d3d3fb-1b4f-4bab-ac87-a2ce03e7b56a&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,FailArmy
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608014d19a26320007c92ab6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea06ea-8983-11ef-a4c9-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c542a63-ddde-44ce-95db-dffa910992fa&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,World Poker Tour
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea0ab4-8983-11ef-ad3e-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=960c2418-30e0-49f7-be75-bd2dc92665c0&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,People are Awesome
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608017cbe375e400070cc981/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea0bea-8983-11ef-93b0-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a0e7400c-9999-49ac-a9f8-ac595472f23d&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Real Life
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60801976f92a750007a0699c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea10ae-8983-11ef-a1f6-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=54832b42-8e4b-4cbe-a565-d2677c3496b8&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Natura
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea127a-8983-11ef-a57f-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e1aa543-4fe1-4196-88fd-cf0fbd1d8e89&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Mutant X
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60802c209a26320007c92ad5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea141e-8983-11ef-9a32-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=eb8eb453-f7d0-4077-a426-ef296b0de764&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Andromeda
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60802d37ee238e0007c94e64/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea15f4-8983-11ef-8e3e-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c0b8d2f9-3fd0-49b9-b983-6f79b3cfe249&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Sport
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea175c-8983-11ef-a901-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1702afa8-2a57-486e-b564-ef1f15f0bfec&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea182e-8983-11ef-a61f-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c167505-3c7a-4b97-b71a-93aef4118c09&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film Azione
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea1950-8983-11ef-a0d6-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9123ba0a-8a5f-46af-8dce-dafc78fe7bea&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film Classici
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa3c446d73500075f0e24/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea1aa4-8983-11ef-bebd-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=260c0f73-577c-471d-a05b-3c8f1bb2cc0f&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film Romantici
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea1b80-8983-11ef-bb2a-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f3bb1e2d-ccf6-4048-9f08-aabd9f7b2b27&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film Commedia
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa512d67fd900072323db/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea1d2e-8983-11ef-8d55-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c423f8e-3432-4496-91a6-f5d785b46ebd&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film Thriller
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea1e00-8983-11ef-b903-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=027f7130-1cad-4030-b258-d7d0f9e187c8&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Cucina
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa718a8ec810007d87fee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea1edc-8983-11ef-882f-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3d41d29-5106-47ad-b508-e15d926c482c&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Crime
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa777b907770007e5d05d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea1fae-8983-11ef-8c81-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=593fc9d3-61d3-4466-ad85-2e5b7c196dfa&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Cinema Italiano
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea20e4-8983-11ef-91d3-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=082ccff7-f1d3-41e6-a9d1-dfec891dd4f4&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Documentari
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea21b6-8983-11ef-b644-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=073fc876-1ff2-47a9-95d3-3624a870ab8c&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Just for Laughs
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea22ba-8983-11ef-8694-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=340c5ac0-d5f1-4951-a78b-c62d65c8a345&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Super! Star
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea253a-8983-11ef-848b-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9a86dba-007d-45ec-8cc6-9b28148cc5d0&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Super! Pop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea26a2-8983-11ef-aed0-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=594a3a04-2967-4d89-aa5c-3ead46e91fe2&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Super! SpongeBob
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f9281db477000759fce0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea2774-8983-11ef-bd3c-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef57623c-41df-41a8-ab78-e84e2ac2a4d4&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Catfish
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea2846-8983-11ef-bf9d-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e963013e-d3de-49ee-aace-d505122c53fe&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Super! iCarly
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea290e-8983-11ef-95e2-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=03507830-901f-4d99-9f70-0e189f4cb842&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Scherzi e risate
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea29d6-8983-11ef-91a9-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a9dd8909-3a71-4898-ae79-df29c233de19&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,16 Anni e Incinta
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea2a94-8983-11ef-baaa-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=690bc32f-e396-4916-a46f-fbe3282ce907&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Ex On The Beach
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60940ebad67fd900072382db/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea2b98-8983-11ef-8dc7-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=297f366e-2666-4426-bcd6-2d4a01f48b02&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Le sorelle McLeod
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea2c6a-8983-11ef-926a-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=57811dcc-14b5-4272-8fdd-4d9658f0b5cb&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Consulenze Illegali
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea2d6e-8983-11ef-847d-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=742e1ede-a8b2-40ad-8f4d-9ebbafad6924&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Serie
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea2e90-8983-11ef-8c3d-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3935b56-9ef2-4006-8779-ac666d8e3fee&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Il Banco dei Pugni
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4507a06171800072339a3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea2fbc-8983-11ef-93e6-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=036ee647-899e-466a-9736-c6f962874379&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Naturescape
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea30a2-8983-11ef-ad8f-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5d2fadc3-8c5d-43fc-9017-e07b6adf2e80&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Serie+
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61163de693706b0007f04898/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3200-8983-11ef-960f-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af47ce44-2895-4aff-9d29-256e407539e8&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film+
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6116413793706b0007f04bb1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea32c8-8983-11ef-b0f1-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a9d3104-bb3a-4cf1-acf2-d998acbc2d84&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Real Life+
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6116424f5f76a40007d2616e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3390-8983-11ef-b4ec-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5b2a8c06-272f-4144-b9d0-dafa916e00b9&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film Romantici+
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611644bd5f76a40007d26296/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea344e-8983-11ef-8a29-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c06d64a4-cd36-4252-870d-dc057569de50&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Inazuma Eleven
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3520-8983-11ef-abbb-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e7bef3e-0045-47d5-b5a4-055a6d190197&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Sci-Fi
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3606-8983-11ef-8554-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9b70669d-e856-4fb9-80ee-976c0e2e513d&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Reality
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61925f874b1ec000075e700a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3750-8983-11ef-8f9c-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=36a48383-11de-4756-8096-14ae78a835cd&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Geordie Shore
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619263ee9541940007d20d60/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3872-8983-11ef-b7d3-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=700842e9-f0a9-4c7f-8787-11af07f39568&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Euronews
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3a02-8983-11ef-95d4-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5c282fbc-895e-4043-aa1f-d1c62f1a2199&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Horror
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61c09e3ac210ed0007606620/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3af2-8983-11ef-a9e5-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3530986a-3aa9-47b0-9b3c-c16f2eecf4b6&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Il Testimone
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3bc4-8983-11ef-acf6-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=193575b6-d715-4cd7-8b71-e77f4edcb891&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Ridiculousness
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3d9a-8983-11ef-ae48-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83547e55-46c7-4d0c-8279-0b08d30cf5b7&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Kids Ukraine
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622a2d8da9d8210007d918c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3e62-8983-11ef-a783-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=962b326d-977a-4f47-b356-babe241d2543&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,CBS News 24/7
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea3f48-8983-11ef-952d-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=45cc9c9a-0675-4128-af86-f9f66415f1b8&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,I Jefferson
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62442f28afe626000747f195/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea4024-8983-11ef-b7a2-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba629a78-1c33-4f47-a401-a741d9d58259&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Kids
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62444e195d2ab7000861694b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea40ec-8983-11ef-b53c-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5761a480-2ec5-4ff4-b513-0d999808578c&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Settimo Cielo
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d3792792150007e20634/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea4268-8983-11ef-aae4-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=adcf9bae-7210-4f6f-9011-a38d72ffe7a8&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,MacGyver
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d4511358320007029cdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea4402-8983-11ef-a375-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3b9d3185-d408-43f1-b4f2-f937e99a2c8c&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Avatar
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/624da1cd2af90c0007c13205/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea4588-8983-11ef-bc9b-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1eaaa43-61f3-43fa-8365-6d11934a7e6d&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Squadra Speciale Cobra 11
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625e6cc905e09f00073addee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea4650-8983-11ef-87db-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42d410f1-5656-4bc2-9dae-175f6b266498&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Teenage Mutant Ninja Turtles
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62619405c733e8000732d1fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea4740-8983-11ef-9adb-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=62d79809-31c8-409f-bdaf-bd82bcab9711&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,#Riccanza
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/626baa721c279b00072cbedd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea4812-8983-11ef-b8ab-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cb03505d-5773-4bb0-8f17-7ae6f55686a7&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Case Pazzesche
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/626bb07a58b8dd0007e9f36e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea48ee-8983-11ef-bcc4-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a099885-a8ac-4e9d-b15c-3c5ded088d09&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film Azione+
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628deda4b9a7650007de2384/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea49fc-8983-11ef-ab93-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5b59bc63-9a1a-4f04-a7c6-da456198b4f6&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film Commedia+
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628deea29e29d0000765e910/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea4b50-8983-11ef-bd0a-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7e76ddb-ffd9-42d4-ba18-75d1831df6c2&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Due Fantagenitori
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea4cae-8983-11ef-99fa-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f9fd44c-a0d7-4ccb-a4af-dd99ba6a6132&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,South Park
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1f502b70e3000706298e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea4e16-8983-11ef-a675-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=18c0d6a3-ab13-4f1d-8f09-a5ff4281bd3c&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Doctor Who
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea4f1a-8983-11ef-b50a-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=49288267-e809-4b6e-907a-1a8878fdb15e&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,BBC Drama
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea5028-8983-11ef-82ae-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=00ad3e38-544a-40fd-8bed-7528bb28712f&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Western
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea5136-8983-11ef-9c90-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c5447bd0-344d-472d-b272-9c659df9222f&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Teen Mom
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e7fc8c0d061100083946a9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea521c-8983-11ef-a7c1-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f6a1e0d-b9db-4395-acb7-98e793502873&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,VH1+ Music Legends
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea5316-8983-11ef-900a-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d599fc62-4936-44bb-b8f3-67de01f697b9&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Super! Halloween
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e8d22424f1bd0007a5f387/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea5438-8983-11ef-beaa-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061d3484-0911-446d-b9c9-deec884c5aef&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,The Asylum
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e8d5369e48940007fc1dc1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea5532-8983-11ef-9e74-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7e798aea-2ebc-470a-8343-a8938bdf5bcc&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV #1
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6304ec83440dc90007f514c6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea56ae-8983-11ef-87d5-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1406838a-d70a-47fe-961d-d3e21d902a21&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Super! Zoey 101
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6304ed62410a4c00083c0291/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea57a8-8983-11ef-89ca-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=87c256d8-6901-4f08-8aac-0c6394a4fe8b&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Renegade
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634926e4b51d2d00077819a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea591a-8983-11ef-aa26-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c2cf563-eea4-4a29-847b-1f8cc5911c04&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Mai dire sì
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6349279ed5023700078f2bc2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea5ab4-8983-11ef-b2c9-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8313b0b-c3a3-49ed-99e4-4bc88415cedc&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,VH1+ Rock!
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/636a4173e34fd50007534542/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea5b72-8983-11ef-b74c-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98075c4d-ffbc-4999-aa0d-95567860409d&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Pimp My Ride
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/636a4eaf77279a0007f14861/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea5c44-8983-11ef-8fbd-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2c7cf6ff-f2b0-416d-bdf4-ca3567e2ab21&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,VH1+ Canzoni Italiane
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63724270c7c2360007b170e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea5e9c-8983-11ef-b866-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce6077fb-0bbb-45f1-a797-ea239758dae1&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Autostop per il cielo
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f286445264d00084ec6dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea6108-8983-11ef-adff-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29409543-c259-4670-90c5-130a5655f79a&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Super! Victorious
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c012504faf1c0007abfa93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea620c-8983-11ef-ad52-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc2a8ecf-d565-4b04-8616-73d0d179e3de&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Viaggi
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c923944207be0007fd0887/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea6306-8983-11ef-a41b-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f3db2957-5f37-4453-9bc0-dee7d3828fcc&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Sanctuary
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63eb57d6c111bc0008fe2658/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea63e2-8983-11ef-9cae-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3da43cd6-e80d-4d99-a1b4-c4be5b9ca199&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,The Boat Show
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63eb58aa60bc8f0008caa8f8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea6572-8983-11ef-bd79-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86a75f39-8ed1-4b69-a0c8-32aa7ffc6d60&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Yu-Gi-Oh!
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63eb82e24e83e70008ab735f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea6644-8983-11ef-ad9f-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bd5e5e0-f1e8-455c-a969-598883369016&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,The Hills
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6466007181844c000967f80a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea677a-8983-11ef-875a-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=027250b2-402e-4416-bb85-14f20ad236ee&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Top Gear
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c109a4798def0008a6e03e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea6842-8983-11ef-8013-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc027b9e-a7ca-4756-b1e9-4cab1d2e2cfe&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Affare Fatto
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ec5c6644fe100009d114ae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea695a-8983-11ef-ad4c-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e133257a-eaaf-4931-89ed-89fdcce29432&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Forensic Files
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ec5cf50f73a800081310a5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea6aea-8983-11ef-b6e1-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f2371666-e0e6-4973-b4e7-de0492653841&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Robot Wars by MECH+
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651581ba6a84140008593586/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea6c34-8983-11ef-8660-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4c1341c-f82d-40ea-bcdc-e436f08b5113&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65158fe20371a8000868809a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea6db0-8983-11ef-8ca7-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0cacba44-5d31-4402-8a9e-82c576d3e6c9&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Film Azione
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651593a42c585100085b9d09/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea6ff4-8983-11ef-b7f8-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7e9ee265-9635-4464-ae92-1d193d2abea4&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Ultimate Classic Wrestling
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/652516fb7971630008a58e74/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea7134-8983-11ef-8a33-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8ba8fd9b-b4f4-48be-858c-31360df2b7ef&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Totò
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65253f9881f942000833ccd5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea7256-8983-11ef-9e38-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=156f844d-ebd2-4d0d-b59f-3a9e8e129dc7&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Storia
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea74ae-8983-11ef-8e12-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=786456df-c88e-4cba-a45a-5c9ab494a29e&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,House of Docs
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6536608b4f123d000876b78b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea75d0-8983-11ef-8ae4-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1fb93f09-9f08-4e40-b580-07dd456f8b36&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Le vite degli altri
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/653660b4295b840008a70ba3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea7832-8983-11ef-b3db-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=53996e73-8ab8-41db-a64b-6a8192765828&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,PFL MMA
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a299cab05240008a12639/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea79cc-8983-11ef-a92b-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e769a1e3-f624-4d1f-ad6b-0de3329c485b&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,East is East
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654c955683595c00081d9d87/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea7a94-8983-11ef-820d-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2a34d20-0a2d-40e7-9ad9-21f6cfca0702&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,VH1+ Back to 90's
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6552085aab05240008b05f6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea7bca-8983-11ef-99ae-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c957778e-84f6-4fbd-b05b-5425987950f9&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,PRIDEtv
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656d86e957fe4a00087e0e94/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea7c9c-8983-11ef-852a-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9808dd3c-4ebb-4ed8-8f1d-60a068df9270&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Star Trek: The Original Series
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6581a09edfed030008e12b39/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea7d96-8983-11ef-bda8-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7922787-8823-4559-adcb-553b4d1aeb74&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,NUMB3RS
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67ace0d9ab400080b8f6f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea7e68-8983-11ef-afc7-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dff7c1a5-888d-49d6-b642-a9545e4071e7&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Car Chase
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a939fad77d450008863835/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea8002-8983-11ef-b13f-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22c783ac-5d94-495a-a665-baffbd94be47&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Anime
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b90daed77d450008a43345/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea8174-8983-11ef-af34-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=643be312-d836-433a-9431-f105508f38a7&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Monster Jam
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea823c-8983-11ef-85c0-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9c1fd4e2-8ed6-41ec-b4a1-d274305acf33&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Medium
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb71d711ced70008205ec0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea830e-8983-11ef-844c-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1c46a411-d618-4ba8-9234-c41cb40e1a31&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Twin Peaks
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb72b833ea860008860418/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea83d6-8983-11ef-827c-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4f8e0a0-7c89-4223-8417-a69935fc24d9&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Star Trek: Voyager
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea84a8-8983-11ef-854c-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5335f912-ad7e-4d6f-8917-409ed8da1e32&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Scorpion
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb750311ced700082066b5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea85b6-8983-11ef-bc42-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1c488c71-59ec-440b-870d-cb6e4dfa764b&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Star Trek: The Next Generation
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb75c2d77d450008cf80ee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea8674-8983-11ef-9c4f-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=61fc9268-0825-4a9c-bce8-092a3b6371e8&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Love Boat
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb76723a116800079e1fc3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea873c-8983-11ef-8f67-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=679552e7-1196-4faa-a419-d618160275b2&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Dynasty
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb76ea11ced70008206b66/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea8836-8983-11ef-8ae4-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2e330878-b43f-4a35-93ac-39417fa48621&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Mission Impossible
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb77853ba51e00084cba02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea88fe-8983-11ef-af02-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=92e517c9-a74e-4ffe-9f0b-4b0579cdecef&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Star Trek: Deep Space Nine
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb783b3af63d00087bedda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea89d0-8983-11ef-951c-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e42552cc-5eda-4949-ad01-8456bae31d49&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Cin Cin
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb78b83a116800079e2e35/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea8a98-8983-11ef-aec1-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=80b22ca5-5a3a-4ac3-bd38-6422aa3db20d&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,LOL:-)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d7211d0d45610008ffcf92/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea8c64-8983-11ef-96cd-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ff173798-729b-4a57-8df5-9bd7699e502a&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Billiard TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0b428b24c80008eec0b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea8e26-8983-11ef-a41d-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04061dfa-057c-4e31-a1ad-1fb9c1126db9&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,South Park: Kenny Collection
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df1a22180365000819bde1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea8fde-8983-11ef-8f75-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=50e630ba-6713-445a-a3a0-8d4e3f076cb1&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,South Park: Stan Collection
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df1a84332fec00084576f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea90d8-8983-11ef-add6-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd1914db-0abe-48d2-bcdc-c60698672284&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,South Park: Cartman Collection
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df1aad66eec8000897c1ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea93ee-8983-11ef-abb0-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=19e95101-8508-4e40-85b2-ac3d314d6f7f&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,South Park: Kyle Collection
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df29558b24c80008ef17d9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea94c0-8983-11ef-9b75-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2314ad60-373e-49fb-ae46-a8a93d2d5be9&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,VH1+ Dance
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e5d9d2ec9fda0008c35f91/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea9772-8983-11ef-940b-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7e2a195e-8e3c-4567-9ad0-d6843df1b8b1&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Duri a Morire
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f865a62873090008d06382/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea98e4-8983-11ef-8a3a-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9875eb7b-f39e-4170-a6ef-457dca0456ee&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Realmadrid TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f955ff18036500084e88fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea99ac-8983-11ef-9bc6-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2ded53d-95a7-4477-9f71-573538b5d737&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,I soliti idioti
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6602acadb2abe500081cf28a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea9a7e-8983-11ef-8c3a-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4608e158-759b-4418-a783-457f19de1d60&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,FIFA+
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea9b46-8983-11ef-ab60-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2303ec72-da43-4b3a-8484-22b9a8efb5f5&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Baywatch
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660fc6630cd4630008fae92f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea9c40-8983-11ef-ad4b-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a21f338-f086-47af-a658-81f0c4be6cb5&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Triton Poker
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6616a51124e1d00008761a7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea9e02-8983-11ef-8daf-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0d2a948d-e399-4ef4-802d-79f825c58b54&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Storie Criminali
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66177d18c8311c0008d077d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26ea9f7e-8983-11ef-a763-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3299217e-274f-4775-8c2f-4d74c158826d&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Alberto Sordi
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/661f8f01801af800083d9d81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaa046-8983-11ef-9b57-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a46868bc-9815-48c7-b355-1280ee688f24&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Zombie
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663354f3cd43940008602115/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaa104-8983-11ef-9c9f-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78917bd4-44f4-49d1-ab53-e61d7a87c366&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Vampiri
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6633551323e24f00084744aa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaa29e-8983-11ef-a2d6-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22b28899-38c2-4e72-a5d0-d5f9cc643d8f&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV Splatter
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66335533307fa300082bd80a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaa442-8983-11ef-8737-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=321d4bd4-e68f-4a31-bdc8-768c04122b99&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,South Park Rock'N'Roll
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/664f1271f9992200084a348d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaa50a-8983-11ef-b5ea-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5f423209-4245-4714-b83e-d8c702a1a037&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Extreme Makeover Home Edition
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6661739641af6400080cd8f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaa5f0-8983-11ef-bead-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dd45db91-cac6-47ac-aacc-5aa4216910bb&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Super! Big Time Rush
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/666174c9f999220008769012/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaa6b8-8983-11ef-93fb-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8b89046a-4a71-42cf-8c0a-da32e57cdf35&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,TV ASMR
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66867b9919311200085313d9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaa78a-8983-11ef-811b-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5678665-e205-4bd1-875a-4eb7a662297d&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,VH1+ Classici
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6690f892d51259000880d1c4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaa85c-8983-11ef-b6f1-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8651ec3-fa48-4e76-9b89-2510c4690d4d&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Carabinieri
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a0eea88561260008b1c5d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaa924-8983-11ef-aa80-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=08b2c2c1-9ce7-4e74-8608-207568710ac2&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Gormiti
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a8c64814a2bb00084d09d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaaa14-8983-11ef-9f36-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51275b59-ff47-4a1b-96fd-e86964f091b4&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Desi Play TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66c3139c21a4740008466116/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaaad2-8983-11ef-b44a-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7334eafe-a24d-46c9-a683-5fb7f812f939&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTINF:-1,Horror Club
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66c35c0c92b1af0008c8e83a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=26eaab9a-8983-11ef-9597-088fc340c51b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e779519e-fbc4-4ba3-b44d-1f25b70d6e65&userId=&serverSideAds=true
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=iPad
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
